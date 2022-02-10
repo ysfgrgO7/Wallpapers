@@ -1,0 +1,3 @@
+[submodule "catppuccin-walls"]
+	path = catppuccin-walls
+	url = https://github.com/catppuccin/wallpapers.git
